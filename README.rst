@@ -1,6 +1,15 @@
 pip-pop
 =======
 
+This is my first try to learn from a great pythonista
+
+====
+
+What's a requirements.txt
+One python project must contain a requrements.txt to record the packages and their percific version for a new assignment in a new environment
+
+====
+
 Working with lots of ``requirements.txt`` files can be a bit annoying.
 Have no fear, **pip-pop** is here!
 
